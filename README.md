@@ -1,12 +1,73 @@
-# React + Vite
+# 📱 Transparencia Conectada
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Plataforma institucional del Gobierno del Estado de Oaxaca para fortalecer la transparencia, la participación ciudadana y la comunicación pública.**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Objetivo
 
-## Expanding the ESLint configuration
+Crear un ecosistema digital que permita a las dependencias y entidades del gobierno presentar su información institucional de forma clara, accesible y conectada con la ciudadanía.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML5, CSS3, JavaScript
+- Frameworks modernos (Vue.js / React según implementación)
+- QR Code Integration
+- API REST para perfiles institucionales
+- Diseño responsivo y accesible
+- Seguridad y escalabilidad en servidores
+
+---
+
+## 🧩 Estructura del proyecto
+
+- `frontend/` – Interfaz visual y navegación
+- `backend/` – Gestión de datos y autenticación
+- `database/` – Estructura relacional para perfiles y participación
+- `assets/` – Imágenes, íconos y elementos gráficos
+- `docs/` – Material institucional y de capacitación
+
+---
+
+## 🗳️ Participación ciudadana
+
+La plataforma incluye herramientas para:
+
+- Consultar perfiles institucionales
+- Escanear códigos QR en documentos oficiales
+- Enviar comentarios y propuestas
+- Acceder a informes y visualizaciones públicas
+
+---
+
+## 🎨 Identidad visual
+
+El diseño sigue el estilo **Fanny Design Style**, priorizando:
+
+- Coherencia institucional
+- Accesibilidad visual
+- Integración con redes sociales
+- Plantillas adaptables para cada dependencia
+
+![Banner institucional](banner-transparencia-conectada.png)
+
+---
+
+## 📎 Enlaces útiles
+
+- [Sitio oficial del Gobierno de Oaxaca](https://www.oaxaca.gob.mx)
+- [Guía de uso para coordinadores](docs/guia-coordinadores.pdf)
+- [Repositorio de componentes visuales](assets/)
+
+---
+
+## 🤝 Créditos
+
+Desarrollado por la Dirección General de Transparencia Institucional  
+Gobierno del Estado de Oaxaca  
+Con la colaboración de equipos técnicos y coordinadores institucionales
+
+---
+
