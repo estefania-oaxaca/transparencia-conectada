@@ -1,0 +1,3 @@
+import appLogo from './app.svg';
+
+<img src={appLogo} alt="Logo" />

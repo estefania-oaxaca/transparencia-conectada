@@ -1,0 +1,15 @@
+[1] Desarrollador hace cambios en el proyecto
+        ↓
+[2] Ejecuta git add, commit y push a la rama principal (main)
+        ↓
+[3] GitHub Actions detecta el push
+        ↓
+[4] Corre el workflow definido en .github/workflows/pages.yml
+        ↓
+[5] Instala dependencias y construye el sitio (npm run build)
+        ↓
+[6] Sube los archivos generados (dist/) como artefacto
+        ↓
+[7] Despliega automáticamente en GitHub Pages
+        ↓
+[8] El sitio queda disponible públicamente con URL institucional
