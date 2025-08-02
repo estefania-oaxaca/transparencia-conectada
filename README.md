@@ -1,4 +1,6 @@
 # 📱 Transparencia Conectada
+![Banner institucional](banner-transparencia-conectada.png)
+
 
 **Plataforma institucional del Gobierno del Estado de Oaxaca para fortalecer la transparencia, la participación ciudadana y la comunicación pública.**
 
