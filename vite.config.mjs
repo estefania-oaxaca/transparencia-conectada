@@ -1,7 +1,9 @@
-import { defineConfig } from 'vite'
-import path from 'path'
+import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: '/transparencia-conectada/',
+  // ...otras configuraciones
+});
   root: './',
   server: {
     port: 5173,
